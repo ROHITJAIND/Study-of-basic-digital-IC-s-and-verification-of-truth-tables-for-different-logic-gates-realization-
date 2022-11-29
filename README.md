@@ -57,16 +57,28 @@ Switch ON the main switch
 Press the switches for inputs “A” and “B”. The switch is ON state when 1 is pressed. The switch is OFF state when 0 is pressed.
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
+
+Developed by: Rohit
+RegisterNumber: 
 Program:
 /*
+
+
+
+
+
+
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+ 
 Logic symbol & Truthtable
+
+
+
+
 RTL realization
 Output:
 RTL
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
+
