@@ -74,14 +74,13 @@ xor(y4,a,b);
 nand(y5,a,b);  
 nor(y6,a,b);  
 xnor(y7,a,b);  
-endmodule 
- 
-# Logic symbol & Truthtable
-![WhatsApp Image 2022-12-27 at 14 19 48](https://user-images.githubusercontent.com/118707073/209640732-95b74f56-ace7-486c-8345-29bf4c3618d6.jpg)
+endmodule  
 
+# OUTPUT:  
 
-# RTL OUTPUT:
-# RTL realization![Screenshot_20221227_015717](https://user-images.githubusercontent.com/118707073/209638194-a0cadc47-87b4-4484-b6ec-7b25dec38a33.png)
+# Logic symbol & Truthtable:![WhatsApp Image 2022-12-27 at 14 19 48](https://user-images.githubusercontent.com/118707073/209640732-95b74f56-ace7-486c-8345-29bf4c3618d6.jpg)
+
+# RTL realization: ![Screenshot_20221227_015717](https://user-images.githubusercontent.com/118707073/209638194-a0cadc47-87b4-4484-b6ec-7b25dec38a33.png)
 
 
 # Result:
